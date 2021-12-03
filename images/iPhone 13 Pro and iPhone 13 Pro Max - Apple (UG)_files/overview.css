@@ -1,0 +1,145 @@
+﻿/*------------------------------------*\
+   LOCAL SCREENS
+\*------------------------------------*/
+
+/*HERO ANIMATION */
+
+html.enhance-hero .section-hero .enhanced-media .media-wrapper.macro-image {
+    background-image: url(/euro/iphone-13-pro/a/screens_alt/images/overview/hero/hero_video_endframe__f2ztpvu2l1ea_large.jpg);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    html.enhance-hero .section-hero .enhanced-media .media-wrapper.macro-image {
+        background-image: url(/euro/iphone-13-pro/a/screens_alt/images/overview/hero/hero_video_endframe__f2ztpvu2l1ea_large_2x.jpg);
+    }
+}
+
+@media only screen and (min-width: 1441px) {
+    html.enhance-hero .section-hero .enhanced-media .media-wrapper.macro-image {
+        background-image: url(/euro/iphone-13-pro/a/screens_alt/images/overview/hero/hero_video_endframe__f2ztpvu2l1ea_xlarge.jpg);
+    }
+}
+
+@media only screen and (min-width: 1441px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 1441px) and (min-resolution: 1.5dppx), only screen and (min-width: 1441px) and (min-resolution: 144dpi) {
+    html.enhance-hero .section-hero .enhanced-media .media-wrapper.macro-image {
+        background-image: url(/euro/iphone-13-pro/a/screens_alt/images/overview/hero/hero_video_endframe__f2ztpvu2l1ea_xlarge_2x.jpg);
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    html.enhance-hero .section-hero .enhanced-media .media-wrapper.macro-image {
+        background-image: url(/euro/iphone-13-pro/a/screens_alt/images/overview/hero/hero_video_endframe__f2ztpvu2l1ea_medium.jpg);
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    html.enhance-hero .section-hero .enhanced-media .media-wrapper.macro-image {
+        background-image: url(/euro/iphone-13-pro/a/screens_alt/images/overview/hero/hero_video_endframe__f2ztpvu2l1ea_medium_2x.jpg);
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.enhance-hero .section-hero .enhanced-media .media-wrapper.macro-image {
+        background-image: url(/euro/iphone-13-pro/a/screens_alt/images/overview/hero/hero_video_endframe__f2ztpvu2l1ea_small.jpg);
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    html.enhance-hero .section-hero .enhanced-media .media-wrapper.macro-image {
+        background-image: url(/euro/iphone-13-pro/a/screens_alt/images/overview/hero/hero_video_endframe__f2ztpvu2l1ea_small_2x.jpg);
+    }
+}
+
+html.enhance-hero .section-hero .enhanced-media .media-wrapper.profile-image { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/hero/hero_flow_startframe__gfkcq3ga2z2a_large.jpg); }
+@media (-webkit-min-device-pixel-ratio:1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+  html.enhance-hero .section-hero .enhanced-media .media-wrapper.profile-image { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/hero/hero_flow_startframe__gfkcq3ga2z2a_large_2x.jpg); }
+}
+@media only screen and (min-width:1441px) {
+  html.enhance-hero .section-hero .enhanced-media .media-wrapper.profile-image { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/hero/hero_flow_startframe__gfkcq3ga2z2a_xlarge.jpg); }
+}
+@media only screen and (min-width:1441px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-width:1441px) and (min-resolution:1.5dppx),only screen and (min-width:1441px) and (min-resolution:144dpi) {
+  html.enhance-hero .section-hero .enhanced-media .media-wrapper.profile-image { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/hero/hero_flow_startframe__gfkcq3ga2z2a_xlarge_2x.jpg); }
+}
+@media only screen and (max-width:1068px) {
+  html.enhance-hero .section-hero .enhanced-media .media-wrapper.profile-image { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/hero/hero_flow_startframe__gfkcq3ga2z2a_medium.jpg); }
+}
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+  html.enhance-hero .section-hero .enhanced-media .media-wrapper.profile-image { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/hero/hero_flow_startframe__gfkcq3ga2z2a_medium_2x.jpg); }
+}
+@media only screen and (max-width:734px) {
+  html.enhance-hero .section-hero .enhanced-media .media-wrapper.profile-image { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/hero/hero_flow_startframe__gfkcq3ga2z2a_small.jpg); }
+}
+@media only screen and (max-width:734px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px) and (min-resolution:1.5dppx),only screen and (max-width:734px) and (min-resolution:144dpi) {
+  html.enhance-hero .section-hero .enhanced-media .media-wrapper.profile-image { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/hero/hero_flow_startframe__gfkcq3ga2z2a_small_2x.jpg); }
+}
+/*END HERO ANIMATION */
+
+@media only screen and (max-width:734px) {
+  .camera-hardware .pin-wrapper { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/camera/hardware/camera_redesign__ro5b5rs2s8i2_small.jpg); }
+}
+@media only screen and (max-width:734px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px) and (min-resolution:1.5dppx),only screen and (max-width:734px) and (min-resolution:144dpi) {
+  .camera-hardware .pin-wrapper { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/camera/hardware/camera_redesign__ro5b5rs2s8i2_small_2x.jpg); }
+}
+
+.section-ios .image-screen-2 glass-screen { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/ios/screen_2__d76aabjqqj8m_large.jpg); }
+@media (-webkit-min-device-pixel-ratio:1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+  .section-ios .image-screen-2 glass-screen { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/ios/screen_2__d76aabjqqj8m_large_2x.jpg); }
+}
+@media only screen and (max-width:1068px) {
+  .section-ios .image-screen-2 glass-screen { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/ios/screen_2__d76aabjqqj8m_medium.jpg); }
+}
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+  .section-ios .image-screen-2 glass-screen { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/ios/screen_2__d76aabjqqj8m_medium_2x.jpg); }
+}
+.section-ios .image-screen-6 glass-screen { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/ios/screen_6__d53p1enzzywm_large.jpg); }
+@media (-webkit-min-device-pixel-ratio:1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+  .section-ios .image-screen-6 glass-screen { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/ios/screen_6__d53p1enzzywm_large_2x.jpg); }
+}
+.section-ios .image-screen-8 glass-screen { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/ios/screen_8__gbs8ads3wxu2_large.jpg); }
+@media (-webkit-min-device-pixel-ratio:1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+  .section-ios .image-screen-8 glass-screen { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/ios/screen_8__gbs8ads3wxu2_large_2x.jpg); }
+}
+.section-ios .image-screen-12 glass-screen { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/ios/screen_12__empaj1jr5h8i_large.jpg); }
+@media (-webkit-min-device-pixel-ratio:1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+  .section-ios .image-screen-12 glass-screen { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/ios/screen_12__empaj1jr5h8i_large_2x.jpg); }
+}
+@media only screen and (max-width:1068px) {
+  .section-ios .image-screen-12 glass-screen { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/ios/screen_12__empaj1jr5h8i_medium.jpg); }
+}
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px) and (min-resolution:1.5dppx),only screen and (max-width:1068px) and (min-resolution:144dpi) {
+  .section-ios .image-screen-12 glass-screen { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/ios/screen_12__empaj1jr5h8i_medium_2x.jpg); }
+}
+@media only screen and (max-width:734px) {
+  .section-ios .image-screen-12 glass-screen { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/ios/screen_12__empaj1jr5h8i_small.jpg); }
+}
+@media only screen and (max-width:734px) and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px) and (min-resolution:1.5dppx),only screen and (max-width:734px) and (min-resolution:144dpi) {
+  .section-ios .image-screen-12 glass-screen { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/ios/screen_12__empaj1jr5h8i_small_2x.jpg); }
+}
+.section-ios .image-screen-14 glass-screen { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/ios/screen_14__egypau25b78m_large.jpg); }
+@media (-webkit-min-device-pixel-ratio:1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+  .section-ios .image-screen-14 glass-screen { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/ios/screen_14__egypau25b78m_large_2x.jpg); }
+}
+.section-ios .image-screen-16 glass-screen { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/ios/screen_16__d5nifoodxl6q_large.jpg); }
+@media (-webkit-min-device-pixel-ratio:1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+  .section-ios .image-screen-16 glass-screen { background-image:url(/euro/iphone-13-pro/a/screens_alt/images/overview/ios/screen_16__d5nifoodxl6q_large_2x.jpg); }
+}
+
+
+/*------------------------------------*\
+   END LOCAL SCREENS
+\*------------------------------------*/ 
+
+
+
+
+/*------------------------------------*\
+   LOCAL FIXES
+\*------------------------------------*/
+
+.section-accessories {
+	padding-bottom: 24px;
+}
+
+/*------------------------------------*\
+   END LOCAL FIXES
+\*------------------------------------*/ 
